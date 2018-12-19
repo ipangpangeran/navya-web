@@ -1,0 +1,231 @@
+@charset "utf-8";
+@media only screen and (max-width: 1250px) {
+		
+}
+@media only screen and (max-width: 1100px) {
+	.glitch-box	{
+		max-width:350px;
+		}
+	.box25-25	{
+		width:32%;
+		}
+	.contact-right div	{
+		width:70%;
+		}
+}
+@media only screen and (max-width: 960px) {	
+	.fp-section,
+	.fp-slide,
+	.fp-tableCell{
+		height: auto !important;
+		}
+	.logo-navya	{	
+		position:relative;	
+		padding-left:25px;
+		text-align:left;
+		margin-bottom:20px;
+		}
+	.white-navya, .logo-navya	{
+		left:0px;
+		}
+			
+	.home-cont, .middle-poss	{
+		top: 0%;
+		transform: translateY(0);
+		}
+	.background, .cloud	{
+		width:1500px;
+		}
+	.home-text	{
+		position:relative;
+		width:80%;
+		bottom:0px;
+		padding-bottom:25px;
+		}
+	.text-connect	{
+		top:42%;
+		}
+	.project-top {
+		height: auto;
+		padding-top: 40px;
+	}
+	.connect	{
+		height:350px;
+		}
+	.connect div	{
+		top: 50%;
+		position:relative;
+		transform: translateY(-50%);
+		}
+	.footer p	{
+		padding-bottom:25px;
+		}
+	.connect h2 {
+	    padding-bottom: 10px;
+		}
+	.project-cont h1, .contact-page	{
+		padding-top:20px;
+		}
+	.contact-left div, .contact-right div	{
+		width:70%;
+		}
+	.footer	{
+		margin-top:50px;
+		}
+	.contact-space	{
+		height:25px;
+		}
+	.box25a-25a	{
+		width:48%;
+		margin:1%;
+		}
+	.agnecy-cont	{
+		top: 0px;
+		transform: none; 
+		}
+	.hist-auto	{
+		overflow:visible;
+		}
+	.agnecy-titel, .agnecy-titel-3	{
+		margin-top:35%;
+		}
+	.popup	{
+		margin:0 5%;
+		}	
+}
+@media only screen and (max-width: 768px) {	
+	.footer .home-project	{
+		width:90%;
+		}
+	.box25-25	{
+		width:48%;
+		}
+	.agnecy-titel, .agnecy-titel-3	{
+		margin-top:0%;
+		}
+	.agency-left	{
+		position:relative;
+		width:90%;
+		background-size:100% auto;
+		padding:0 5%;
+		}
+	.youthfull	{
+		top: 0%;
+		transform: translateY(0);
+		padding:75px 0;
+		}
+	.agnecy-cont, .agnecy-cont-2	{
+		width:100%;
+		}
+	.hist-auto	{
+		margin:25px 0;
+		}
+	.agnecy-titel, .agnecy-titel-3	{
+		margin-top:100px;
+		}
+	
+
+}	
+@media only screen and (max-width: 640px) {	
+	.text-play, .project-cont h1	{
+		font-size:32px;
+		}
+	.box50-50a, .box50-50b	{
+		width:100%;
+		float:none;
+		margin:0 0 0px 0;
+		}
+	.footer span	{
+		position:relative;
+		text-align:left;
+		display:block;
+		}
+	.footer p	{
+		padding-top:20px;
+		width:100%;
+		}
+	.menu-full li a {
+    	font-size: 22px;
+		}
+	.form-search	{
+		width:90%;
+		}
+	.project-cont p	{
+		font-size:20px;
+		}	
+	.contact-page	{
+		padding-top:0px;
+		}
+	.contact-left, .contact-right	{
+		width:100%;
+		}
+	.contact-right	{
+		position:relative;
+		left:0%;
+		}
+	.contact-left div, .contact-right div	{
+		width:80%;
+		margin:0px auto;
+		}
+	.contact-left div {
+		float: none;
+		margin-right: 0px;
+		margin-left: 50px;
+		}
+	.footer	{
+		margin-top:0;
+		}
+	.contact-space	{
+		height:5px;
+		}
+	.popup-img, .popup-box	{
+		margin-right:0px;
+		display: block;	
+		float:none;
+		}
+	
+}
+@media only screen and (max-width: 480px) {	
+	.text-play, .project-cont h1	{
+		font-size:24px;
+		}
+	.text-connect	{
+		width:100%;
+		margin-left:0%;
+		}
+	.logo-navya img, .white-navya img	{
+		width:140px;
+		}
+	.box25-25, .box25a-25a	{
+		width:98%
+		}
+	.project-cont p	{
+		font-size:18px;
+		}
+	.box25-25 span	{
+		font-size:16px;
+		}
+	.youthfull span	{
+		margin: 20px 0 0 20%;
+		}
+}
+@media only screen and (max-width: 400px) {
+	.trans-cover p	{
+		display:none;
+		}
+	.trans-cover h2	{
+		margin-bottom:25px;
+		}
+	.glitch-box	{
+		height:450px;
+		}
+
+
+}
+@media only screen and (max-width: 320px) {
+	.glitch-box	{
+		height:415px;
+		}
+
+}	
+

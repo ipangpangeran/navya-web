@@ -1,0 +1,55 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 185" style="enable-background:new 0 0 841.89 185;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+
+		.st0{clip-path:url(#SVGID_2_);fill:none;stroke:#153051;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+
+		.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#4987B0;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+		.anim1,.anim2,.anim3,.anim4,.anim5 {
+			stroke-dasharray: 500;
+			stroke-dashoffset: 500;
+			animation: dash 1s linear alternate infinite;
+			animation-fill-mode: forwards;
+		}
+		.anim2 {
+			animation-delay: 0.7s;
+		}
+		.anim3 {
+			animation-delay: 1.2s;
+		}
+		.anim4 {
+			animation-delay: 1.4s;
+		}
+		.anim4 {
+			animation-delay: 1.9s;
+		}
+		.anim5 {
+			animation-delay: 1.9s;
+		}
+
+		@keyframes dash {
+			from {
+				stroke-dashoffset: 500;
+			}
+			to {
+				stroke-dashoffset: 0;
+			}
+		}
+]]>
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="-205.28" width="841.89" height="595.28"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0 anim1" id="n" d="M27.936,92.362l72.51-72.51c3.659-3.659,9.59-3.659,13.249,0l65.886,65.886c3.659,3.658,9.59,3.658,13.249,0l72.51-72.511"/>
+	<path class="st0 anim2" d="M230.647,87.659l72.51-72.51c3.659-3.659,9.59-3.659,13.249,0l72.51,72.51"/>
+	<path class="st1 anim3" d="M512.492,13.223l-72.51,72.51c-3.659,3.659-9.59,3.659-13.249,0l-72.51-72.51"/>
+	<line class="st0 anim4" x1="694.612" y1="13.702" x2="536.343" y2="171.971"/>
+	<path class="st0 anim4" d="M624.895,83.419c-5.201,5.201-13.633,5.201-18.834,0l-69.718-69.717"/>
+	<path class="st0 anim5" d="M655.686,92.362l72.51-72.51c3.659-3.659,9.59-3.659,13.249,0l72.51,72.51"/>
+</g>
+</svg>

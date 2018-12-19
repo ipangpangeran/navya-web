@@ -1,0 +1,11 @@
+[29-Mar-2017 08:03:52 UTC] PHP Warning:  Missing argument 1 for get_the_term_list(), called in /home/navya/public_html/wp-content/themes/navya-tes post/page-team.php on line 64 and defined in /home/navya/public_html/wp-includes/category-template.php on line 1201
+[29-Mar-2017 08:03:52 UTC] PHP Warning:  Missing argument 2 for get_the_term_list(), called in /home/navya/public_html/wp-content/themes/navya-tes post/page-team.php on line 64 and defined in /home/navya/public_html/wp-includes/category-template.php on line 1201
+[29-Mar-2017 08:04:12 UTC] PHP Fatal error:  Call to undefined function get_the_term_lists() in /home/navya/public_html/wp-content/themes/navya-tes post/page-team.php on line 64
+[29-Mar-2017 08:12:48 UTC] PHP Fatal error:  Call to a member function have_posts() on array in /home/navya/public_html/wp-content/themes/navya-tes post/page-team.php on line 69
+[31-Mar-2017 06:48:48 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/navya/public_html/wp-content/themes/navyaid/page-team.php on line 29
+[31-Mar-2017 06:53:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/navya/public_html/wp-content/themes/navyaid/page-team.php on line 29
+[31-Mar-2017 06:54:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/navya/public_html/wp-content/themes/navyaid/page-team.php on line 27
+[31-Mar-2017 08:00:35 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/navya/public_html/wp-content/themes/navyaid/page-team.php on line 44
+[31-Mar-2017 08:00:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/navya/public_html/wp-content/themes/navyaid/page-team.php on line 95
+[31-Mar-2017 08:17:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/navya/public_html/wp-content/themes/navyaid/page-team.php on line 69
+[03-Apr-2017 08:30:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/navya/public_html/wp-content/themes/navyaid/page-projects.php on line 255

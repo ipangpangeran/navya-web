@@ -1,0 +1,13 @@
+.error{ color:red;}
+.form_result {
+    width: 33% !important;
+    margin: 0 !important;
+    padding: 0;
+    font-size: 12px;
+    color: red;
+    position: absolute;
+}
+.form_result p {
+    margin: 0;
+    padding: 0;
+}
